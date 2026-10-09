@@ -1,0 +1,110 @@
+{
+  "personal": {
+    "fullName": "Rahul Verma",
+    "title": "AI Engineer / Full Stack Developer",
+    "summary": "AI Engineer and Full Stack Developer building AI-powered platforms end to end: document ingestion, chunking, embeddings, vector storage, semantic retrieval, and LLM inference. Experienced with RAG pipelines, Gemini, TensorFlow proctoring, AI resume filtering, backend APIs, and production full-stack delivery.",
+    "email": "officialvermarahul@gmail.com",
+    "phone": "9152415102",
+    "location": "Mumbai, India",
+    "profilePicture": "/rahul-verma.jpg",
+    "tagline": "Building the intelligence behind the interface."
+  },
+  "socialLinks": {
+    "github": "https://github.com/rahulmverma",
+    "linkedin": "https://in.linkedin.com/in/rahul-verma-6775341b0",
+    "website": "https://rahulverma.dev",
+    "portfolio": "https://rahulverma.dev"
+  },
+  "marquee": {
+    "items": ["RAG PIPELINES", "LLM INTEGRATION", "FULL STACK SYSTEMS", "RELIABLE AI"]
+  },
+  "projects": [
+    {
+      "number": "01",
+      "title": "Relaydesk",
+      "type": "AI RAG SUPPORT REPLY ASSISTANT",
+      "description": "A production-ready support copilot that retrieves brand policy context, enforces guardrails, and produces reliable reply drafts.",
+      "stack": ["FastAPI", "pgvector", "React", "OpenRouter"],
+      "accent": "violet",
+      "liveDemo": "https://ragllmdatastraw.vercel.app",
+      "github": "https://github.com/rahulmverma/relaydesk",
+      "screenshots": ["/screenshots/relaydesk-1.png", "/screenshots/relaydesk-2.png"]
+    },
+    {
+      "number": "02",
+      "title": "Medical Knowledge RAG + Clinical Assistant (MedRAG)",
+      "type": "Medical document retrieval and AI-powered answers",
+      "description": "Built an educational medical knowledge assistant using RAG, Docling, embeddings, and PostgreSQL with pgvector to retrieve relevant information from medical documents and generate context-aware answers using OpenRouter LLMs.",
+      "stack": ["React", "Next.js", "FastAPI", "PostgreSQL", "pgvector", "OpenRouter", "Redis", "RQ", "Docker"],
+      "accent": "cyan",
+      "liveDemo": "https://medrag-web-8p95.onrender.com/",
+      "github": "https://github.com/rahulmverma/medrag",
+      "screenshots": ["/screenshots/medrag-1.png", "/screenshots/medrag-2.png"]
+    },
+    {
+      "number": "03",
+      "title": "Ride / realtime",
+      "type": "UBER-LIKE RIDE BOOKING PLATFORM",
+      "description": "A live ride booking experience with driver matching, OTP auth, Google Maps routing, and Socket.IO location broadcasting.",
+      "stack": ["React", "Node.js", "Socket.IO", "MongoDB"],
+      "accent": "cyan",
+      "liveDemo": "https://github.com/rahulmverma/ride-app",
+      "github": "https://github.com/rahulmverma/ride-app",
+      "screenshots": ["/screenshots/ride-1.png", "/screenshots/ride-2.png"]
+    }
+  ],
+  "experience": [
+    {
+      "year": "2025 — Present",
+      "role": "Full Stack Developer",
+      "company": "Quodeck Technologies Pvt. Ltd.",
+      "location": "Mumbai, India",
+      "description": "Designing and shipping AI-powered platforms across document intelligence, assessment integrity, and real-time product experiences.",
+      "highlights": [
+        "Built an end-to-end RAG pipeline with IBM Docling, Gemini embeddings, vector search, and grounded LLM inference.",
+        "Engineered AI resume filtering and TensorFlow proctoring systems for faster, safer online assessments.",
+        "Shipped production features across React, Node.js, FastAPI, PostgreSQL, MongoDB, Docker, and DigitalOcean."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science (MS) in Computer Science",
+      "institution": "University of Mumbai",
+      "year": "2022 — 2024",
+      "cgpa": "8.70",
+      "institutionFull": "NCRD&apos;s Sterling Institute of Management Studies",
+      "achievement": "Grand Finalist — Smart India Hackathon 2023"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Mumbai",
+      "year": "2019 — 2022",
+      "cgpa": "8.39",
+      "institutionFull": "University of Mumbai"
+    }
+  ],
+  "skills": {
+    "intelligence": ["TensorFlow", "Google Gemini API", "RAG Pipelines", "IBM Docling", "Vector Search", "LLM Integration", "Prompt Engineering"],
+    "interfaces": ["React", "Next.js", "TypeScript", "Three.js"],
+    "infrastructure": ["FastAPI", "Node.js", "PostgreSQL", "MongoDB", "Docker"]
+  },
+  "certifications": [
+    {
+      "name": "TensorFlow Developer Certificate",
+      "organization": "Google",
+      "year": "2024",
+      "credential": "https://google.com/certificate/tensorflow"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "organization": "Amazon Web Services",
+      "year": "2023",
+      "credential": "https://aws.amazon.com/certifications"
+    }
+  ],
+  "contact": {
+    "preferredEmail": "officialvermarahul@gmail.com",
+    "resumePath": "/Rahul_Verma_Resume.pdf"
+  }
+}
